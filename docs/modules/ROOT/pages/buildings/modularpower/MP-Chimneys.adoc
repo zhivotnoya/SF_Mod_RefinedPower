@@ -10,7 +10,7 @@ Modular Power Chimneys are used to vent Co2 and Steam from heaters and turbines.
 
 | Steam Chimney   | Low Pressure Steam | ~42/Min     | N/A        
 
-| Co2 Shimney     | Co2                | ~64/Min     | N/A        
+| Co2 Chimney     | Co2                | ~64/Min     | N/A        
 |===
 
 ## Variants:
